@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/آرشیو/New Markdown/"}
+{"dg-publish":true,"permalink":"/arshyw/new-markdown/"}
 ---
 
 Hi
